@@ -123,7 +123,7 @@ ds_<candidate_name>/
 ├── outputs/                  # Visualization exports
 │   └── comprehensive_behavioral_sentiment_analysis.png
 │
-├── ds_report.pdf             # Final 10-15 page report with:
+├── ds_report.pdf             # Final report
 │
 └── README.md                 # Project documentation
 ```
